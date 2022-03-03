@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="permission_require">Location permission required</string>
+    <string name="decline">Decline</string>
+    <string name="decline_failed">Decline failed</string>
+    <string name="decline_success">Decline Success</string>
+    <string name="token_not_found">Token not found</string>
+    <string name="rider_not_found">Cannot find rider with key</string>
+    <string name="start_uber">Start Trip</string>
+    <string name="accept_failed">Accept Failed</string>
+    <string name="driver_arrived">Your driver has arrived</string>
+    <string name="your_driver_arrived">"Your driver  has arrived and is waiting "</string>
+    <string name="time_over">Time Over</string>
+    <string name="complete_trip">Complete Trip</string>
+    <string name="complete_trip_failed">Complete trip message send failed</string>
+    <string name="complete_trip_success">Thank you Trip Done</string>
+    <string name="menu_gallery">policy</string>
+    <string name="menu_slideshow">safety</string>
+    <string name="menu_emergency">emergency</string>
+
+</resources>
